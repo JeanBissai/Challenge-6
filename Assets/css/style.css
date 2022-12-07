@@ -1,0 +1,21 @@
+ion-icon {
+    color:rgb(27, 116, 141);
+    --ionicon-stroke-width: 80px;
+  }
+
+.green{
+  background-color: rgb(128, 0, 102);
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: rgb(165, 136, 83);
+}
+.red{
+  background-color: rgb(221, 102, 102);
+}
+
+.purple{
+  background-color: rgb(202, 123, 202);
+}
